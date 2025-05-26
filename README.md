@@ -42,7 +42,7 @@ To run this project successfully, you'll need:
 -  **Memory & Recall**: Remembers the user's name during the session.
 -  **Basic Sentiment Detection**: Reacts differently to positive vs. negative inputs like "bad", "good", etc.
 -  **Error Handling**: Handles unrecognized inputs gracefully.
-- 🛠 **Extensible Code Structure**: Easy to expand with new features or topics.
+-  **Extensible Code Structure**: Easy to expand with new features or topics.
 
 ## help command
 Type any of these during the conversation:
